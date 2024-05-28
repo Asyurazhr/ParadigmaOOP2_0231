@@ -3,7 +3,9 @@ using namespace std;
 
 class orang {
 public:
-    
+    int umur;
+
+
 };
 
 int main()
